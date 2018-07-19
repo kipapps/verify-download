@@ -7,10 +7,10 @@ Author: KipSoft
 Version: 1.0
 Author URI: http://kipsoft.com
 */
-//$_ENV['FB_APPID']= '119093284798281';
-//putenv('FB_APPID=119093284798281');
-//putenv('FB_SECRET=681a0c2ddfd8a329420b39ebc27a6713');
-//$_ENV['FB_SECRET']= '681a0c2ddfd8a329420b39ebc27a6713';
+//$_ENV['FB_APPID']= '';
+//putenv('FB_APPID=');
+//putenv('FB_SECRET=');
+//$_ENV['FB_SECRET']= '';
 //print_r(getenv('FB_APPID'));
 
 require_once('class-verify-social.php');
